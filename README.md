@@ -5,7 +5,7 @@ Playground for different methods to find the complex energy of a resonance state
 
 I can think of four methods:
 - complex scaling
-- complex absorbing potebntials
+- complex absorbing potentials
 - stabilization method (Hazi-Taylor--not extrapolation to zero stabilization, that is poor man's ACCC)
 - ACCC or RAC = complex extrapolation of the lowest root
 
